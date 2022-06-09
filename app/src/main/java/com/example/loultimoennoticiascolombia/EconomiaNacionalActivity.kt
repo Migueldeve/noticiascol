@@ -436,7 +436,7 @@ class EconomiaNacionalActivity : AppCompatActivity() {
             }
         })
     }
-
+///estas es mi categoias
     private fun addsGoogle() {
 
         if (mInterstitialAd != null){
