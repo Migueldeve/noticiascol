@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context=".CategoryActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/colombia">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="10">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="732dp"
+                android:orientation="vertical"
+                android:weightSum="10">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="28dp"
+                    android:layout_marginBottom="60dp"
+                    android:fontFamily="@font/alfaslaboneregular"
+                    android:text="CATEGORIA :"
+                    android:textColor="@color/black"
+                    android:textSize="38sp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/buttonPoliticaPrivacidad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/png"
+                    android:backgroundTint="@color/png"
+                    android:fontFamily="@font/alfaslaboneregular"
+                    android:text="@string/politica_privacidad"
+                    android:textColor="@color/black"
+                    android:textStyle="bold|italic" />
+
+                <GridLayout
+                    android:id="@+id/mainGrid"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="13dp"
+                    android:layout_weight="8"
+                    android:alignmentMode="alignMargins"
+                    android:columnCount="2"
+                    android:columnOrderPreserved="false"
+                    android:padding="1dp"
+                    android:rowCount="2">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="5dp"
+                        android:layout_height="0dp"
+                        android:layout_rowWeight="1"
+                        android:layout_columnWeight="1"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginBottom="16dp"
+                        app:cardCornerRadius="20dp"
+                        app:cardElevation="8dp">
+
+                        <Button
+                            android:id="@+id/buttonPoliticayGeneral"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/png" />
+
+                        <LinearLayout
+                            android:layout_width="157dp"
+                            android:layout_height="199dp"
+                            android:layout_gravity="center"
+                            android:layout_margin="16dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="85dp"
+                                android:layout_height="85dp"
+                                android:layout_marginStart="38dp"
+                                android:layout_marginTop="35dp"
+                                android:background="@drawable/circlbackgroundgreen"
+                                android:src="@drawable/poolitica_general" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="15dp"
+                                android:layout_marginTop="10dp"
+                                android:text="  Politica y General"
+                                android:textSize="14dp"
+                                android:textStyle="bold" />
+
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/deleteItems"
+                        android:layout_width="5dp"
+                        android:layout_height="0dp"
+                        android:layout_rowWeight="1"
+                        android:layout_columnWeight="1"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginBottom="16dp"
+                        app:cardCornerRadius="20dp"
+                        app:cardElevation="8dp">
+
+                        <Button
+                            android:id="@+id/buttonEconomiaNacional"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/png" />
+
+                        <LinearLayout
+                            android:layout_width="157dp"
+                            android:layout_height="199dp"
+                            android:layout_gravity="center"
+                            android:layout_margin="16dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="85dp"
+                                android:layout_height="85dp"
+                                android:layout_marginStart="38dp"
+                                android:layout_marginLeft="11dp"
+                                android:layout_marginTop="35dp"
+                                android:background="@drawable/circlebackgroundyellow"
+                                android:padding="10dp"
+                                android:src="@drawable/economia_nacion" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="17dp"
+                                android:layout_marginTop="10dp"
+                                android:text="Economia Nacional"
+                                android:textSize="14dp"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/scanItems"
+                        android:layout_width="5dp"
+                        android:layout_height="0dp"
+                        android:layout_rowWeight="1"
+                        android:layout_columnWeight="1"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginBottom="16dp"
+                        app:cardCornerRadius="20dp"
+                        app:cardElevation="8dp">
+
+                        <Button
+                            android:id="@+id/buttonFarandulaNacional"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/png" />
+
+                        <LinearLayout
+                            android:layout_width="157dp"
+                            android:layout_height="199dp"
+                            android:layout_gravity="center"
+                            android:layout_margin="16dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="85dp"
+                                android:layout_height="85dp"
+                                android:layout_marginStart="34dp"
+                                android:layout_marginTop="40dp"
+                                android:background="@drawable/circlebackgroundpurple"
+                                android:src="@drawable/farandula" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="17dp"
+                                android:layout_marginTop="10dp"
+                                android:text="Farandula nacional"
+                                android:textSize="14dp"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/viewInventory"
+                        android:layout_width="5dp"
+                        android:layout_height="0dp"
+                        android:layout_rowWeight="1"
+                        android:layout_columnWeight="1"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginBottom="16dp"
+                        app:cardCornerRadius="20dp"
+                        app:cardElevation="8dp">
+
+                        <Button
+                            android:id="@+id/buttonDeportesNacional"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/png" />
+
+                        <LinearLayout
+                            android:layout_width="157dp"
+                            android:layout_height="199dp"
+                            android:layout_gravity="center"
+                            android:layout_margin="16dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="85dp"
+                                android:layout_height="85dp"
+                                android:layout_marginStart="40dp"
+                                android:layout_marginTop="40dp"
+                                android:background="@drawable/circuletransparente"
+                                android:src="@drawable/ic_baseline_sports" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="25dp"
+                                android:layout_marginTop="10dp"
+                                android:text="Deporte Nacional"
+                                android:textSize="14dp"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                </GridLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/Banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6713950183257774/5242338727"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

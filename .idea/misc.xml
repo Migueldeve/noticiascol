@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.107" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable-xhdpi/circlbackgroundgreen.xml" value="0.1025" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable-xhdpi/circlebackgroundpurple.xml" value="0.1025" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable-xhdpi/circlebackgroundyellow.xml" value="0.1025" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable-xhdpi/circuletransparente.xml" value="0.1025" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable/ic_baseline_local_library.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable/ic_baseline_sports.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/drawable/splas_screen.xml" value="0.107" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_category.xml" value="0.14666666666666667" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_deporte_nacional.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_economia_nacional.xml" value="0.12" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_farandula_nacional.xml" value="0.14666666666666667" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_farandula_nacionall.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_hthftkygkgy.xml" value="0.16666666666666666" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_navigation_bottom_session.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_politica_privacidad_actividad.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_politica_privacidad_activity.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_politica_y_general.xml" value="0.14666666666666667" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_caracol_radio.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_el_colombiano.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_el_espectador.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_el_heraldo.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_el_pilon.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_el_tiempo.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_la_republica.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_portafolio.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view2_publimetro.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_alerta_bogota.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_alerta_paisa.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_colombia_com.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_el_colombiano.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_el_tiempo.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_el_universal.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_la_kalle.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_la_mega.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view3_wradio.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view4_canal_uno.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view4_el_espectador.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view4_el_heraldo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view4_el_pais.xml" value="0.16145833333333334" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view4_el_tiempo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view4_sport_caracol.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1adn.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1caracol.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1el_colombiano.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1el_espectador.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1el_heraldo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1el_pais.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1el_tiempo.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1extra.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1la_cronica_del_quindio.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1publimetro.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1qhubo.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1rcn.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_1semana.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_2rcn_radio.xml" value="0.12635869565217392" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_adn.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_caracol.xml" value="0.16666666666666666" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_el_colombiano.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_el_espectador.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_el_heraldo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_el_nuevo_siglo.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_el_pais.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_el_tiempo.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_extra.xml" value="0.16145833333333334" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_la_cronica_del_quindio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_la_red.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_la_republica.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_publimetro.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_qhubo.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_rcn.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_rcn_radio2.xml" value="0.1" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/activity_web_view_semana.xml" value="0.16145833333333334" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/fragment_dashboard.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/fragment_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/item_politica_privacidad.xml" value="0.17552083333333332" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/layout/layout3.xml" value="0.17447916666666666" />
+        <entry key="..\:/Desarrollo/loultimoennoticiascolombia/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

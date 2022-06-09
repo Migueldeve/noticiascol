@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.loultimoennoticiascolombia">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".NoticiasColombiaAddApp"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LoUltimoEnNoticiasColombia"
+        tools:targetApi="31">
+        <activity
+            android:name=".WebViewElPais4_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewSportCaracol4_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElHeraldo4_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewCanalUno4_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElEspectador4_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElTiempo4_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeporteNacionalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewColombia_Com3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElTiempo3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElColombiano3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewWRadio3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewLaKalle3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewAlertaBogota3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewAlertaPaisa3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewLaMega3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElUniversal3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FarandulaNacionalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElPilon2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElColombiano2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewPortafolio2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElTiempo2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElHeraldo2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewPublimetro2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElEspectador2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewCaracolRadio2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewRcnRadio2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PoliticaPrivacidad_activity"
+            android:exported="false" />
+        <activity
+            android:name=".EconomiaNacionalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewSemana1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewLaCronicaDelQuindio1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewExtra1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewADN1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElPais1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewQhubo1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElColombiano1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewLaRed_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElHeraldo1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewRcn1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PoliticayGeneralActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewPublimetro1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElEspectador1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewElTiempo1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewCaracol1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6713950183257774~8186946701" />
+    </application>
+
+</manifest>

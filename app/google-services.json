@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968188685392",
+    "project_id": "noticias-colombia-b39b6",
+    "storage_bucket": "noticias-colombia-b39b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968188685392:android:e4ee3b830c4452f8b27555",
+        "android_client_info": {
+          "package_name": "com.example.loultimoennoticiascolombia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968188685392-r1n6kfpej48ibqb4s9j7qpeo3ltub0n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdaHZGWCe6waWlW6VgZf_6jcO2eJoYa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968188685392-r1n6kfpej48ibqb4s9j7qpeo3ltub0n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
