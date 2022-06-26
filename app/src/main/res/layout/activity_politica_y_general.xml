@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/colombia"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
-    tools:context=".PoliticayGeneralActivity">
+    tools:context="com.noticias.migueldev.PoliticayGeneralActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -28,20 +28,6 @@
                 app:bottomShadowHeight="10dp"
                 android:background="@color/gris"
                 app:topShadowHeight="10dp"/>
-
-            <Button
-                android:id="@+id/buttonSemana"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginEnd="16dp"
-                android:text="@string/canal_uno"
-                android:textColor="@color/red"
-                android:textSize="18sp"
-                android:textStyle="bold|italic"
-                app:layout_constraintBottom_toTopOf="@+id/buttonLaCronicaDelQuindio"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
 
             <Button
                 android:id="@+id/buttonLaCronicaDelQuindi"

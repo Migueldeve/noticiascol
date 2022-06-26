@@ -12,11 +12,11 @@ android {
     buildFeatures{viewBinding true}
 
     defaultConfig {
-        applicationId "com.example.loultimoennoticiascolombia"
-        minSdk 23
+        applicationId "com.noticias.migueldev"
+        minSdk 21
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        versionCode 8
+        versionName "1.7"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

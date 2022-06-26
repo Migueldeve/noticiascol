@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.loultimoennoticiascolombia">
+    package="com.noticias.migueldev">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".NoticiasColombiaAddApp"
+        android:name="com.noticias.migueldev.NoticiasColombiaAddApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -17,139 +17,139 @@
         android:theme="@style/Theme.LoUltimoEnNoticiasColombia"
         tools:targetApi="31">
         <activity
-            android:name=".WebViewElPais4_Activity"
+            android:name="com.noticias.migueldev.WebViewElPais4_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewSportCaracol4_Activity"
+            android:name="com.noticias.migueldev.WebViewSportCaracol4_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElHeraldo4_Activity"
+            android:name="com.noticias.migueldev.WebViewElHeraldo4_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewCanalUno4_Activity"
+            android:name="com.noticias.migueldev.WebViewCanalUno4_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElEspectador4_Activity"
+            android:name="com.noticias.migueldev.WebViewElEspectador4_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElTiempo4_Activity"
+            android:name="com.noticias.migueldev.WebViewElTiempo4_Activity"
             android:exported="false" />
         <activity
-            android:name=".DeporteNacionalActivity"
+            android:name="com.noticias.migueldev.DeporteNacionalActivity"
             android:exported="false" />
         <activity
-            android:name=".WebViewColombia_Com3_Activity"
+            android:name="com.noticias.migueldev.WebViewColombia_Com3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElTiempo3_Activity"
+            android:name="com.noticias.migueldev.WebViewElTiempo3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElColombiano3_Activity"
+            android:name="com.noticias.migueldev.WebViewElColombiano3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewWRadio3_Activity"
+            android:name="com.noticias.migueldev.WebViewWRadio3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewLaKalle3_Activity"
+            android:name="com.noticias.migueldev.WebViewLaKalle3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewAlertaBogota3_Activity"
+            android:name="com.noticias.migueldev.WebViewAlertaBogota3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewAlertaPaisa3_Activity"
+            android:name="com.noticias.migueldev.WebViewAlertaPaisa3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewLaMega3_Activity"
+            android:name="com.noticias.migueldev.WebViewLaMega3_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElUniversal3_Activity"
+            android:name="com.noticias.migueldev.WebViewElUniversal3_Activity"
             android:exported="false" />
         <activity
-            android:name=".FarandulaNacionalActivity"
+            android:name="com.noticias.migueldev.FarandulaNacionalActivity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElPilon2_Activity"
+            android:name="com.noticias.migueldev.WebViewElPilon2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElColombiano2_Activity"
+            android:name="com.noticias.migueldev.WebViewElColombiano2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewPortafolio2_Activity"
+            android:name="com.noticias.migueldev.WebViewPortafolio2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElTiempo2_Activity"
+            android:name="com.noticias.migueldev.WebViewElTiempo2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElHeraldo2_Activity"
+            android:name="com.noticias.migueldev.WebViewElHeraldo2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewPublimetro2_Activity"
+            android:name="com.noticias.migueldev.WebViewPublimetro2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElEspectador2_Activity"
+            android:name="com.noticias.migueldev.WebViewElEspectador2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewCaracolRadio2_Activity"
+            android:name="com.noticias.migueldev.WebViewCaracolRadio2_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewRcnRadio2_Activity"
+            android:name="com.noticias.migueldev.WebViewRcnRadio2_Activity"
             android:exported="false" />
         <activity
-            android:name=".PoliticaPrivacidad_activity"
+            android:name="com.noticias.migueldev.PoliticaPrivacidad_activity"
             android:exported="false" />
         <activity
-            android:name=".EconomiaNacionalActivity"
+            android:name="com.noticias.migueldev.EconomiaNacionalActivity"
             android:exported="false" />
         <activity
-            android:name=".WebViewSemana1_Activity"
+            android:name="com.noticias.migueldev.WebViewSemana1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewLaCronicaDelQuindio1_Activity"
+            android:name="com.noticias.migueldev.WebViewLaCronicaDelQuindio1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewExtra1_Activity"
+            android:name="com.noticias.migueldev.WebViewExtra1_Activity"
             android:exported="false" />
         <activity
-            android:name=".CategoryActivity"
+            android:name="com.noticias.migueldev.CategoryActivity"
             android:exported="false" />
         <activity
-            android:name=".WebViewADN1_Activity"
+            android:name="com.noticias.migueldev.WebViewADN1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElPais1_Activity"
+            android:name="com.noticias.migueldev.WebViewElPais1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewQhubo1_Activity"
+            android:name="com.noticias.migueldev.WebViewQhubo1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElColombiano1_Activity"
+            android:name="com.noticias.migueldev.WebViewElColombiano1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewLaRed_Activity"
+            android:name="com.noticias.migueldev.WebViewLaRed_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElHeraldo1_Activity"
+            android:name="com.noticias.migueldev.WebViewElHeraldo1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewRcn1_Activity"
+            android:name="com.noticias.migueldev.WebViewRcn1_Activity"
             android:exported="false" />
         <activity
-            android:name=".PoliticayGeneralActivity"
+            android:name="com.noticias.migueldev.PoliticayGeneralActivity"
             android:exported="false" />
         <activity
-            android:name=".WebViewPublimetro1_Activity"
+            android:name="com.noticias.migueldev.WebViewPublimetro1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElEspectador1_Activity"
+            android:name="com.noticias.migueldev.WebViewElEspectador1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewElTiempo1_Activity"
+            android:name="com.noticias.migueldev.WebViewElTiempo1_Activity"
             android:exported="false" />
         <activity
-            android:name=".WebViewCaracol1_Activity"
+            android:name="com.noticias.migueldev.WebViewCaracol1_Activity"
             android:exported="false" />
         <activity
-            android:name=".SplashScreen"
+            android:name="com.noticias.migueldev.SplashScreen"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
             <intent-filter>
