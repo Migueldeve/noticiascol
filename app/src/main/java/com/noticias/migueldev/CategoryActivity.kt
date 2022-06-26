@@ -32,6 +32,7 @@ class CategoryActivity : AppCompatActivity() {
             admobGoogle()
         }
 
+        //hol
         val buttonEconomiaNacional: Button = findViewById(R.id.buttonEconomiaNacional)
         buttonEconomiaNacional.setOnClickListener{
 
